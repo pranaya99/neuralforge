@@ -1,1 +1,11 @@
+# Core dependencies for NeuralForge
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
 
+# Optional: For better progress bars during training
+tqdm>=4.62.0
+
+# Optional: For Jupyter notebook compatibility
+jupyter>=1.0.0
+ipython>=7.0.0
